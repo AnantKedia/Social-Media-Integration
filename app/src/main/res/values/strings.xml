@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SocialMedia Integration</string>
+    <string name="facebook_app_id">2287894434806552</string>
+    <string name="fb_login_protocol_scheme">fb2287894434806552</string>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">JRdT3qOhvN6mm1WkzgzvVNqE2</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">8KxjiA6h5iPxESf83lPWKZU2hYm5zIUYG2N6GoaB3JeHcR8Qa4</string>
+</resources>
